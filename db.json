@@ -9,20 +9,7 @@
     {"id": "7", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
     {"id": "8", "Name": "Crisps", "Price" : "3", "Location": "the Snack isle"},
     {"id": "9", "Name": "Pizza", "Price" : "4", "Location": "Refrigerated foods"},
-    {"id": "10", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"},
-    {"id": "11", "Name": "Self-raising flour", "Price" : "1.50", "Location": "Home baking"},
-    {"id": "12", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
-    {"id": "13", "Name": "Crisps", "Price" : "3", "Location": "the Snack isle"},
-    {"id": "14", "Name": "Pizza", "Price" : "4", "Location": "Refrigerated foods"},
-    {"id": "15", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"},
-    {"id": "16", "Name": "Self-raising flour", "Price" : "1.50", "Location": "Home baking"},
-    {"id": "17", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"},
-    {"id": "18", "Name": "Self-raising flour", "Price" : "1.50", "Location": "Home baking"},
-    {"id": "19", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
-    {"id": "20", "Name": "Crisps", "Price" : "3", "Location": "the Snack isle"},
-    {"id": "20", "Name": "Pizza", "Price" : "4", "Location": "Refrigerated foods"},
-    {"id": "22", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"},
-    {"id": "23", "Name": "Self-raising flour", "Price" : "1.50", "Location": "Home baking"}
+    {"id": "10", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"}
   ],
   "reviews" : [
     {"pid": "1", "userId":"1", " rating": "5", "comment" : "Great", "datePosted": "20/1/2021"},
