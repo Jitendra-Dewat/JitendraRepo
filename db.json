@@ -1,23 +1,8 @@
 { 
     "products" : [
-    {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
-    {"id": "2", "Name": "Crisps", "Price" : "3", "Location": "the Snack isle"},
-    {"id": "3", "Name": "Pizza", "Price" : "4", "Location": "Refrigerated foods"},
-    {"id": "4", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"},
-    {"id": "5", "Name": "Self-raising flour", "Price" : "1.50", "Location": "Home baking"},
-    {"id": "6", "Name": "Ground almonds", "Price" : "3", "Location": "Home baking"},
-    {"id": "7", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
-    {"id": "8", "Name": "Crisps", "Price" : "3", "Location": "the Snack isle"},
-    {"id": "9", "Name": "Pizza", "Price" : "4", "Location": "Refrigerated foods"},
-    {"id": "10", "Name": "Chocolate", "Price" : "1.50", "Location": "the Snack isle"}
+    {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"}
   ],
   "reviews" : [
-    {"pid": "1", "userId":"1", " rating": "5", "comment" : "Great", "datePosted": "20/1/2021"},
-    {"pid": "1", "userId":"2", " rating": "4", "comment" : "Great", "datePosted": "20/1/2021"},
-    {"pid": "1", "userId":"3", " rating": "3", "comment" : "Great", "datePosted": "20/1/2021"},
-    {"pid": "1", "userId":"4", " rating": "1", "comment" : "Great", "datePosted": "20/1/2021"},
-    {"pid": "1", "userId":"5", " rating": "5", "comment" : "Great", "datePosted": "20/1/2021"},
-    {"pid": "1", "userId":"6", " rating": "5", "comment" : "Great", "datePosted": "20/1/2021"},
-    {"pid": "1", "userId":"7", " rating": "3", "comment" : "Great", "datePosted": "20/1/2021"}
+    {"pid": "1", "userId":"1", " rating": "5", "comment" : "Great", "datePosted": "20/1/2021"}
   ]
 }
