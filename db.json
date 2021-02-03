@@ -1,0 +1,15 @@
+{ 
+    "products" : [
+    {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"},
+        {"id": "1", "Name": "Cheese", "Price" : "2.50", "Location": "Refrigerated foods"}
+  ],
+  "reviews" : [
+    {"pid": "1", "userId":"1", " rating": "5", "comment" : "Great", "datePosted": "20/1/2021"}
+  ]
+}
